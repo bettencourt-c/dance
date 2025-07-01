@@ -16,7 +16,6 @@ header {
     text-align: center;
     border-radius: 8px 8px 0px 0px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    justify-content: center;
 } 
 
 .cv-container {
@@ -29,6 +28,7 @@ header {
     padding: 20px;
     border-radius: 8px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    justify-content: center;
 }
 
 .about-text h1 {
